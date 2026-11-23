@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">小知问答</string>
+    <string name="quiz_welcome">每天进步一点点</string>
+    <string name="quiz_title">小小 AI 问答</string>
+    <string name="answer_section">你的答案</string>
+    <string name="text_answer_hint">输入你的答案</string>
+    <string name="submit_answer">提交答案</string>
+    <string name="ai_explanation">AI 学习讲解</string>
+    <string name="swipe_next_loading">正在准备下一题…</string>
+    <string name="swipe_next_ready">向左滑动，下一题 →</string>
+    <string name="loading_question">正在准备有趣的题目…</string>
+    <string name="checking_answer">AI 正在检查并讲解…</string>
+    <string name="retry">重新试试</string>
+    <string name="choose_an_answer">请先选择一个答案</string>
+    <string name="enter_an_answer">请先填写答案</string>
+</resources>

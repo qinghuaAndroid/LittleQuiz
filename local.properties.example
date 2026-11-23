@@ -1,0 +1,5 @@
+# Copy this file to local.properties and fill in your own secret.
+# local.properties is excluded from Git.
+QUIZ_AI_BASE_URL=https://kuaijianai.cn/v1
+QUIZ_AI_MODEL=deepseek-chat
+QUIZ_AI_API_KEY=replace-with-your-secret
